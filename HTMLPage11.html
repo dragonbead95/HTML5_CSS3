@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <!-- border를 0으로 설정하면 표의 선이 없고 1로 설정하면 표의 선이 표시된다.-->
+    <table border="1">  
+        <tr>
+            <th>Header 1</th>
+            <th>Header 2</th>
+        </tr>
+        <tr>
+            <td>Data1</td>
+            <td>Data1</td>
+        </tr>
+        <tr>
+            <td>Data2</td>
+            <td>Data2</td>
+        </tr>
+    </table>
+
+    <br/>
+    
+    
+    <table border="1">
+        <caption>Caption</caption>
+        <colgroup>
+            <col span="2" style="background-color:red"/>
+            <col style="background-color:blue" />
+        </colgroup>
+        <thead style="background-color:green">
+            <tr>
+                <th>Table Header</th>
+                <th>Table Header</th>
+                <th>Table Header</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Table Data</td>
+                <td>Table Data</td>
+                <td>Table Data</td>
+            </tr>
+            <tr>
+                <td>Table Data</td>
+                <td>Table Data</td>
+                <td>Table Data</td>
+            </tr>
+            <tr>
+                <td>Table Data</td>
+                <td>Table Data</td>
+                <td>Table Data</td>
+            </tr>
+        </tbody>
+        <tfoot style="background-color:yellow">
+            <tr>
+                <td>Table Data</td>
+                <td>Table Data</td>
+                <td>Table Data</td>
+            </tr>
+
+        </tfoot>
+    </table>
+</body>
+</html>

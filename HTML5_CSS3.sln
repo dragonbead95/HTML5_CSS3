@@ -3,6 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5DBCA351-2216-42CD-97B5-3A19F8826AB6}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage01.html = HTMLPage01.html
+		HTMLPage02.html = HTMLPage02.html
+		HTMLPage03.html = HTMLPage03.html
+		HTMLPage04.html = HTMLPage04.html
+		HTMLPage05.html = HTMLPage05.html
+		HTMLPage06.html = HTMLPage06.html
+		HTMLPage07.html = HTMLPage07.html
+		HTMLPage08.html = HTMLPage08.html
+		HTMLPage09.html = HTMLPage09.html
+		HTMLPage10.html = HTMLPage10.html
+		HTMLPage11.html = HTMLPage11.html
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
