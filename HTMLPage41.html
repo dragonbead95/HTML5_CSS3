@@ -1,0 +1,21 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        /*img태그중에서 src속성값이 png로 끝나는 태그의
+            border 속성에 3px solid red를 적용합니다.
+        */
+        img[src$=png]{border:3px solid red;}
+        img[src$=jpeg]{border:3px solid blue;}
+        img[src$=gif]{border:3px solid green;}
+    </style>
+</head>
+<body>
+    <img src="bag.png" width="200" height="250" />
+    <img src="bag.jpeg" width="200" height="250" />
+    <img src="bag.gif" width="200" height="250" />
+</body>
+</html>

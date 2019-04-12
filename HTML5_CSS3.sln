@@ -4,6 +4,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5DBCA351-2216-42CD-97B5-3A19F8826AB6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter02_HTML5 태그 기본", "Chapter02_HTML5 태그 기본", "{6F7E301B-65E4-492C-B6FF-3FD889034207}"
 	ProjectSection(SolutionItems) = preProject
 		HTMLPage01.html = HTMLPage01.html
 		HTMLPage02.html = HTMLPage02.html
@@ -16,11 +18,50 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		HTMLPage09.html = HTMLPage09.html
 		HTMLPage10.html = HTMLPage10.html
 		HTMLPage11.html = HTMLPage11.html
+		HTMLPage12.html = HTMLPage12.html
+		HTMLPage13.html = HTMLPage13.html
+		HTMLPage14.html = HTMLPage14.html
+		HTMLPage15.html = HTMLPage15.html
+		HTMLPage16.html = HTMLPage16.html
+		HTMLPage17.html = HTMLPage17.html
+		HTMLPage18.html = HTMLPage18.html
+		HTMLPage19.html = HTMLPage19.html
+		HTMLPage20.html = HTMLPage20.html
+		HTMLPage21.html = HTMLPage21.html
+		HTMLPage22.html = HTMLPage22.html
+		HTMLPage23.html = HTMLPage23.html
+		HTMLPage24.html = HTMLPage24.html
+		HTMLPage25.html = HTMLPage25.html
+		HTMLPage26.html = HTMLPage26.html
+		HTMLPage27.html = HTMLPage27.html
+		HTMLPage28.html = HTMLPage28.html
+		HTMLPage29.html = HTMLPage29.html
+		HTMLPage30.html = HTMLPage30.html
+		HTMLPage31.html = HTMLPage31.html
+		HTMLPage32.html = HTMLPage32.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter03_CSS3 선택자 기본", "Chapter03_CSS3 선택자 기본", "{89BE7052-2211-41B6-A2DD-E93FDE96B004}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage33.html = HTMLPage33.html
+		HTMLPage34.html = HTMLPage34.html
+		HTMLPage35.html = HTMLPage35.html
+		HTMLPage36.html = HTMLPage36.html
+		HTMLPage37.html = HTMLPage37.html
+		HTMLPage38.html = HTMLPage38.html
+		HTMLPage39.html = HTMLPage39.html
+		HTMLPage40.html = HTMLPage40.html
+		HTMLPage41.html = HTMLPage41.html
+		HTMLPage42.html = HTMLPage42.html
 	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6F7E301B-65E4-492C-B6FF-3FD889034207} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
+		{89BE7052-2211-41B6-A2DD-E93FDE96B004} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0085A9D4-5269-4022-93C9-355C07E507B3}
