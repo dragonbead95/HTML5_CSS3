@@ -53,6 +53,32 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter03_CSS3 선택자 �
 		HTMLPage40.html = HTMLPage40.html
 		HTMLPage41.html = HTMLPage41.html
 		HTMLPage42.html = HTMLPage42.html
+		HTMLPage43.html = HTMLPage43.html
+		HTMLPage44.html = HTMLPage44.html
+		HTMLPage45.html = HTMLPage45.html
+		HTMLPage46.html = HTMLPage46.html
+		HTMLPage47.html = HTMLPage47.html
+		HTMLPage48.html = HTMLPage48.html
+		HTMLPage49.html = HTMLPage49.html
+		HTMLPage50.html = HTMLPage50.html
+		HTMLPage51.html = HTMLPage51.html
+		HTMLPage52.html = HTMLPage52.html
+		HTMLPage53.html = HTMLPage53.html
+		HTMLPage54.html = HTMLPage54.html
+		HTMLPage55.html = HTMLPage55.html
+		HTMLPage56.html = HTMLPage56.html
+		HTMLPage57.html = HTMLPage57.html
+		HTMLPage58.html = HTMLPage58.html
+		HTMLPage59.html = HTMLPage59.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter04_CSS3 스타일 속성 기본", "Chapter04_CSS3 스타일 속성 기본", "{C6597F4A-F356-410B-8B9C-0FE965EACD6E}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage60.html = HTMLPage60.html
+		HTMLPage61.html = HTMLPage61.html
+		HTMLPage62.html = HTMLPage62.html
+		HTMLPage63.html = HTMLPage63.html
+		HTMLPage64.html = HTMLPage64.html
 	EndProjectSection
 EndProject
 Global
@@ -62,6 +88,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{6F7E301B-65E4-492C-B6FF-3FD889034207} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
 		{89BE7052-2211-41B6-A2DD-E93FDE96B004} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
+		{C6597F4A-F356-410B-8B9C-0FE965EACD6E} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0085A9D4-5269-4022-93C9-355C07E507B3}

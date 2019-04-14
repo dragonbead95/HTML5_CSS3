@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        /*
+            tbody가 자동으로 들어가서 자손 선택자가 적용이 되지 않는다.
+            그래서 table>tbody>tr>th로 바꾸어서 해주어야 한다.
+            그래서 테이블에는 자손 선택자를 사용하지 않는 편이다.
+        */
+        table > tr>th{color:red;}
+        table>tbody>tr>th{color:red;}
+    </style>
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <th>Name</th>
+            <th>Region</th>
+        </tr>
+        <tr>
+            <td>윤인성</td>
+            <td>서울특별시 강서구 내발산동</td>
+        </tr>
+    </table>
+</body>
+</html>
