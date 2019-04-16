@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+        .box {
+            width: 100px;
+            height: 100px;
+            position: absolute;
+        }
+
+            .box:nth-child(1) {
+                background-color: red;
+                left: 10px;
+                top: 10px;
+                z-index: 100;
+            }
+
+            .box:nth-child(2) {
+                background-color: green;
+                left: 50px;
+                top: 50px;
+                z-index: 10;
+            }
+
+            .box:nth-child(3) {
+                background-color: blue;
+                left: 90px;
+                top: 90px;
+                z-index: 1;
+            }
+            body>div{
+                width:400px; height:100px;
+                border:3px solid black;
+                position:relative;
+                overflow:hidden;    /*내부의 요소가 범위를 벗어날때 숨긴다.*/
+                overflow:scroll;    /*내부의 요소가 범위를 벗어날때 스크롤로 보이게 할수있다.*/
+                overflow-x:scroll;  /*정해진 방향으로만 스크롤을 생성한다.*/
+            }
+    </style>
+</head>
+<body>
+    <h1>Lorem ipsum dolor atmp</h1>
+    <div>
+        <div class="box"></div>
+        <div class="box"></div>
+        <div class="box"></div>
+    </div>
+    <h1>Lorem ipsum dolor atmp</h1>
+</body>
+</html>
