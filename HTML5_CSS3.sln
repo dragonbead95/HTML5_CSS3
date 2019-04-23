@@ -97,6 +97,16 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter04_CSS3 스타일 �
 		HTMLPage80.html = HTMLPage80.html
 		HTMLPage81.html = HTMLPage81.html
 		HTMLPage82.html = HTMLPage82.html
+		HTMLPage83.html = HTMLPage83.html
+		HTMLPage84.html = HTMLPage84.html
+		HTMLPage85.html = HTMLPage85.html
+		HTMLPage86.html = HTMLPage86.html
+		HTMLPage87.html = HTMLPage87.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter05_웹페이지 레이아웃", "Chapter05_웹페이지 레이아웃", "{17DD2581-DD66-420E-AEF7-44666B862F21}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage88.html = HTMLPage88.html
 	EndProjectSection
 EndProject
 Global
@@ -107,6 +117,7 @@ Global
 		{6F7E301B-65E4-492C-B6FF-3FD889034207} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
 		{89BE7052-2211-41B6-A2DD-E93FDE96B004} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
 		{C6597F4A-F356-410B-8B9C-0FE965EACD6E} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
+		{17DD2581-DD66-420E-AEF7-44666B862F21} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0085A9D4-5269-4022-93C9-355C07E507B3}
