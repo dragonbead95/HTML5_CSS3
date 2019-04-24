@@ -109,6 +109,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter05_웹페이지 레�
 		HTMLPage88.html = HTMLPage88.html
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter06_스마트폰 레이아웃", "Chapter06_스마트폰 레이아웃", "{477328A4-1D5C-46D7-968C-45BFF7991D9F}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage89.html = HTMLPage89.html
+		HTMLPage90.html = HTMLPage90.html
+		HTMLPage91.html = HTMLPage91.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter07_태블릿 PC 레이아웃", "Chapter07_태블릿 PC 레이아웃", "{82738563-850C-494A-893D-DF5DF2F95FF6}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage92.html = HTMLPage92.html
+		HTMLPage93.html = HTMLPage93.html
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -118,6 +131,8 @@ Global
 		{89BE7052-2211-41B6-A2DD-E93FDE96B004} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
 		{C6597F4A-F356-410B-8B9C-0FE965EACD6E} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
 		{17DD2581-DD66-420E-AEF7-44666B862F21} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
+		{477328A4-1D5C-46D7-968C-45BFF7991D9F} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
+		{82738563-850C-494A-893D-DF5DF2F95FF6} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0085A9D4-5269-4022-93C9-355C07E507B3}
