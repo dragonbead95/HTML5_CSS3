@@ -122,6 +122,59 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter07_태블릿 PC 레�
 		HTMLPage93.html = HTMLPage93.html
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter08_소셜커머스 메인페이지", "Chapter08_소셜커머스 메인페이지", "{3681724C-AA23-4527-86FA-890668498933}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage94.html = HTMLPage94.html
+		title.png = title.png
+		top_gnb.png = top_gnb.png
+		네비게이션1-a지역.png = 네비게이션1-a지역.png
+		네비게이션1-a지역c.png = 네비게이션1-a지역c.png
+		네비게이션1-b쇼핑.png = 네비게이션1-b쇼핑.png
+		네비게이션1-b쇼핑c.png = 네비게이션1-b쇼핑c.png
+		네비게이션1-c문화.png = 네비게이션1-c문화.png
+		네비게이션1-c문화c.png = 네비게이션1-c문화c.png
+		네비게이션1-d여행.png = 네비게이션1-d여행.png
+		네비게이션1-d여행c.png = 네비게이션1-d여행c.png
+		네비게이션1-e레저.png = 네비게이션1-e레저.png
+		네비게이션1-e레저c.png = 네비게이션1-e레저c.png
+		네비게이션1-f추천.png = 네비게이션1-f추천.png
+		네비게이션1-f추천c.png = 네비게이션1-f추천c.png
+		네비게이션1-g전체보기.png = 네비게이션1-g전체보기.png
+		네비게이션1-g전체보기c.png = 네비게이션1-g전체보기c.png
+		네비게이션2-a스페셜.png = 네비게이션2-a스페셜.png
+		네비게이션2-a스페셜c.png = 네비게이션2-a스페셜c.png
+		네비게이션2-b의류.png = 네비게이션2-b의류.png
+		네비게이션2-b의류c.png = 네비게이션2-b의류c.png
+		네비게이션2-c패션잡화.png = 네비게이션2-c패션잡화.png
+		네비게이션2-c패션잡화c.png = 네비게이션2-c패션잡화c.png
+		네비게이션2-d스포츠레저.png = 네비게이션2-d스포츠레저.png
+		네비게이션2-d스포츠레저c.png = 네비게이션2-d스포츠레저c.png
+		네비게이션2-e식품.png = 네비게이션2-e식품.png
+		네비게이션2-e식품c.png = 네비게이션2-e식품c.png
+		네비게이션2-f뷰티.png = 네비게이션2-f뷰티.png
+		네비게이션2-f뷰티c.png = 네비게이션2-f뷰티c.png
+		네비게이션2-g생활주방.png = 네비게이션2-g생활주방.png
+		네비게이션2-g생활주방c.png = 네비게이션2-g생활주방c.png
+		네비게이션2-h홈데코취미.png = 네비게이션2-h홈데코취미.png
+		네비게이션2-h홈데코취미c.png = 네비게이션2-h홈데코취미c.png
+		네비게이션2-i디지털가전.png = 네비게이션2-i디지털가전.png
+		네비게이션2-i디지털가전c.png = 네비게이션2-i디지털가전c.png
+		네비게이션2-j출산유아동.png = 네비게이션2-j출산유아동.png
+		네비게이션2-j출산유아동c.png = 네비게이션2-j출산유아동c.png
+		메인로고.png = 메인로고.png
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter09_CSS3 변형과 애니메이션", "Chapter09_CSS3 변형과 애니메이션", "{6FBA335D-783E-465F-8D26-BCAE17E3EC4B}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage100.html = HTMLPage100.html
+		HTMLPage95.html = HTMLPage95.html
+		HTMLPage96.html = HTMLPage96.html
+		HTMLPage97.html = HTMLPage97.html
+		HTMLPage98.html = HTMLPage98.html
+		HTMLPage99.html = HTMLPage99.html
+		StyleSheet.css = StyleSheet.css
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -133,6 +186,8 @@ Global
 		{17DD2581-DD66-420E-AEF7-44666B862F21} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
 		{477328A4-1D5C-46D7-968C-45BFF7991D9F} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
 		{82738563-850C-494A-893D-DF5DF2F95FF6} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
+		{3681724C-AA23-4527-86FA-890668498933} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
+		{6FBA335D-783E-465F-8D26-BCAE17E3EC4B} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0085A9D4-5269-4022-93C9-355C07E507B3}
