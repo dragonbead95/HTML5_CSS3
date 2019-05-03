@@ -175,6 +175,35 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter09_CSS3 변형과 �
 		StyleSheet.css = StyleSheet.css
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter10_CSS3 변환", "Chapter10_CSS3 변환", "{7FB467EF-56A1-4C59-8D10-D699E87CD4F1}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage101.html = HTMLPage101.html
+		HTMLPage102.html = HTMLPage102.html
+		HTMLPage103.html = HTMLPage103.html
+		HTMLPage104.html = HTMLPage104.html
+		HTMLPage105.html = HTMLPage105.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter11_CSS3 추가 규칙과 반응형 웹", "Chapter11_CSS3 추가 규칙과 반응형 웹", "{51B24033-15BB-4B8D-9B9B-27355C63D9F8}"
+	ProjectSection(SolutionItems) = preProject
+		desktop.css = desktop.css
+		HTMLPage106.html = HTMLPage106.html
+		HTMLPage107.html = HTMLPage107.html
+		HTMLPage108.html = HTMLPage108.html
+		HTMLPage109.html = HTMLPage109.html
+		HTMLPage110ml.html = HTMLPage110ml.html
+		HTMLPage111.html = HTMLPage111.html
+		print.css = print.css
+		StyleSheetA.css = StyleSheetA.css
+		StyleSheetB.css = StyleSheetB.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "부록A_인터넷 익스플로어 보완 방법", "부록A_인터넷 익스플로어 보완 방법", "{D69C71B1-F937-48EB-9605-6C714DD6774C}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage490p.html = HTMLPage490p.html
+		HTMLPage495p.html = HTMLPage495p.html
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -188,6 +217,9 @@ Global
 		{82738563-850C-494A-893D-DF5DF2F95FF6} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
 		{3681724C-AA23-4527-86FA-890668498933} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
 		{6FBA335D-783E-465F-8D26-BCAE17E3EC4B} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
+		{7FB467EF-56A1-4C59-8D10-D699E87CD4F1} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
+		{51B24033-15BB-4B8D-9B9B-27355C63D9F8} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
+		{D69C71B1-F937-48EB-9605-6C714DD6774C} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0085A9D4-5269-4022-93C9-355C07E507B3}
