@@ -201,7 +201,26 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "부록A_인터넷 익스플로어 보완 방법", "부록A_인터넷 익스플로어 보완 방법", "{D69C71B1-F937-48EB-9605-6C714DD6774C}"
 	ProjectSection(SolutionItems) = preProject
 		HTMLPage490p.html = HTMLPage490p.html
+		HTMLPage491p.html = HTMLPage491p.html
 		HTMLPage495p.html = HTMLPage495p.html
+		HTMLPage497p.html = HTMLPage497p.html
+		HTMLPage500p.html = HTMLPage500p.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "부록B_부트스트랩", "부록B_부트스트랩", "{800AAD55-DF3C-4078-80CE-078254B420AE}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage512p.html = HTMLPage512p.html
+		HTMLPage517.html = HTMLPage517.html
+		HTMLPage518.html = HTMLPage518.html
+		HTMLPage520p.html = HTMLPage520p.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "부록C_Less 스타일시트", "부록C_Less 스타일시트", "{F9C72602-FDF2-46B3-8A34-8C5A5C5F1F7B}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage545p.html = HTMLPage545p.html
+		HTMLPage549.html = HTMLPage549.html
+		LessStyleSheet545.less = LessStyleSheet545.less
+		LessStyleSheet549.less = LessStyleSheet549.less
 	EndProjectSection
 EndProject
 Global
@@ -220,6 +239,8 @@ Global
 		{7FB467EF-56A1-4C59-8D10-D699E87CD4F1} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
 		{51B24033-15BB-4B8D-9B9B-27355C63D9F8} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
 		{D69C71B1-F937-48EB-9605-6C714DD6774C} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
+		{800AAD55-DF3C-4078-80CE-078254B420AE} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
+		{F9C72602-FDF2-46B3-8A34-8C5A5C5F1F7B} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0085A9D4-5269-4022-93C9-355C07E507B3}
