@@ -218,9 +218,19 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "부록C_Less 스타일시트", "부록C_Less 스타일시트", "{F9C72602-FDF2-46B3-8A34-8C5A5C5F1F7B}"
 	ProjectSection(SolutionItems) = preProject
 		HTMLPage545p.html = HTMLPage545p.html
-		HTMLPage549.html = HTMLPage549.html
-		LessStyleSheet545.less = LessStyleSheet545.less
+		HTMLPage549_2.html = HTMLPage549_2.html
+		HTMLPage549p.html = HTMLPage549p.html
+		HTMLPage550p.html = HTMLPage550p.html
+		HTMLPage552P.html = HTMLPage552P.html
+		HTMLPage554p.html = HTMLPage554p.html
+		HTMLPage555p.html = HTMLPage555p.html
 		LessStyleSheet549.less = LessStyleSheet549.less
+		LessStyleSheet549p_2.less = LessStyleSheet549p_2.less
+		LessStyleSheet550p.less = LessStyleSheet550p.less
+		LessStyleSheet552p.less = LessStyleSheet552p.less
+		LessStyleSheet554p.less = LessStyleSheet554p.less
+		LessStyleSheet555p.less = LessStyleSheet555p.less
+		Style.less = Style.less
 	EndProjectSection
 EndProject
 Global
