@@ -172,7 +172,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter09_CSS3 변형과 �
 		HTMLPage97.html = HTMLPage97.html
 		HTMLPage98.html = HTMLPage98.html
 		HTMLPage99.html = HTMLPage99.html
-		StyleSheet.css = StyleSheet.css
+		StyleSheet1.css = StyleSheet1.css
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter10_CSS3 변환", "Chapter10_CSS3 변환", "{7FB467EF-56A1-4C59-8D10-D699E87CD4F1}"
@@ -233,6 +233,33 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "부록C_Less 스타일시�
 		Style.less = Style.less
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "부록D_HTML5를 사용한 플래시 웹 페이지 개발", "부록D_HTML5를 사용한 플래시 웹 페이지 개발", "{E0F7DD5E-6F6F-4B7B-80DC-C29FC7C7BA58}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage567P.html = HTMLPage567P.html
+		HTMLPage578p.html = HTMLPage578p.html
+		StyleSheet.css = StyleSheet.css
+		StyleSheet2.css = StyleSheet2.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "부록E_SVG태그", "부록E_SVG태그", "{C17484E8-5A02-47B8-BA8E-2E2A1E273BEE}"
+	ProjectSection(SolutionItems) = preProject
+		HTMLPage600p.html = HTMLPage600p.html
+		HTMLPage603p.html = HTMLPage603p.html
+		HTMLPage609p.html = HTMLPage609p.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Chapter12_그리드 시스템", "Chapter12_그리드 시스템", "{93F56E79-3113-44D7-9F60-BBD027D7FFD8}"
+	ProjectSection(SolutionItems) = preProject
+		DynamicGrid.css = DynamicGrid.css
+		DynamicGrid.less = DynamicGrid.less
+		grid.css = grid.css
+		HTMLPage467p.html = HTMLPage467p.html
+		HTMLPage471p.html = HTMLPage471p.html
+		HTMLPage478p.html = HTMLPage478p.html
+		HTMLPage483p.html = HTMLPage483p.html
+		SilenceGrid.less = SilenceGrid.less
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -251,6 +278,9 @@ Global
 		{D69C71B1-F937-48EB-9605-6C714DD6774C} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
 		{800AAD55-DF3C-4078-80CE-078254B420AE} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
 		{F9C72602-FDF2-46B3-8A34-8C5A5C5F1F7B} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
+		{E0F7DD5E-6F6F-4B7B-80DC-C29FC7C7BA58} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
+		{C17484E8-5A02-47B8-BA8E-2E2A1E273BEE} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
+		{93F56E79-3113-44D7-9F60-BBD027D7FFD8} = {5DBCA351-2216-42CD-97B5-3A19F8826AB6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0085A9D4-5269-4022-93C9-355C07E507B3}

@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="http://code.jquery.com/jquery-1.11.1.js"></script>
+    <script src="raphael-min.js"></script>
+    <script>
+        $(document).ready(function () {
+            var canvas = document.getElementById('canvas');
+            var paper = Raphael(canvas, 700, 400);
+
+            //원을 생성합니다.
+            var rect = paper.rect(0, 0, 700, 300);
+            var circle = paper.circle(350, 150, 100);
+
+            //색상 및 선을 지정합니다.
+            rect.attr('fill', 'red');
+
+            circle.attr('fill', 'orange');
+            circle.attr('stroke', 'black');
+
+            circle.mousedown(function () {
+
+            }).mouseup(function () {
+
+            }).mouseover(function () {
+
+            }).mouseout(function () {
+
+            });
+        });
+    </script>
+</head>
+<body>
+    <div id="canvas"></div>
+</body>
+</html>
